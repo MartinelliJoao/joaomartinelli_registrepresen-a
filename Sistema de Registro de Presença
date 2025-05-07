@@ -1,0 +1,19 @@
+a
+
+## Objetivo
+O objetivo deste projeto é gerenciar a presença de alunos, permitindo cadastrar o nome do aluno e a data da presença, além de calcular a porcentagem de frequência.
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## Funcionalidades
+- Cadastro de presença.
+- Listagem de presenças registradas.
+- Cálculo de frequência dos alunos.
+
+## Estrutura do Projeto
+- **`index.html`**: Estrutura da interface do usuário.
+- **`style.css`**: Estilo visual do projeto.
+- **`script.js`**: Lógica do sistema.
